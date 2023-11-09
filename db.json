@@ -1,0 +1,24 @@
+{
+  "StudentData": [
+    {
+      "username": "muaaz",
+      "id": "547616",
+      "Urdu": "90",
+      "English": " 78",
+      "Math": "56",
+      "Chemistry": "12",
+      "Physics": "89",
+      "EnglishGrade": "B",
+      "MathGrade": "D",
+      "UrduGrade": "A+",
+      "ChemistryGrade": "F",
+      "PhysicsGrade": "A",
+      "percentage": 65,
+      "EnglishStatus": "Pass",
+      "MathStatus": "Pass",
+      "UrduStatus": "Pass",
+      "ChemistryStatus": "Fail",
+      "PhysicsStatus": "Pass"
+    }
+  ]
+}
